@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vedantpatel29/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vedantpatel29/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/vedantpatel29/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vedantpatel29/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedantpatel29/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vedantpatel29/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vedantpatel29/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/vedantpatel29/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vedantpatel29/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedantpatel29/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vedantpatel29/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vedantpatel29/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vedantpatel29/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedantpatel29/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vedantpatel29/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vedantpatel29/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/vedantpatel29/DSA/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vedantpatel29/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vedantpatel29/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vedantpatel29/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vedantpatel29/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vedantpatel29/DSA/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
