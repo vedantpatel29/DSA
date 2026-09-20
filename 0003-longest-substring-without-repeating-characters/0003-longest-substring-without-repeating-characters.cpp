@@ -1,23 +1,26 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
-        vector<int> lastseen(256,-1);
+    int lengthOfLongestSubstring(std::string s) {
+        std::unordered_map<char, int> lastSeen;
+        int maxLength = 0;
+        int left = 0;
 
-        int left = 0; int right = 0;
-        int maxln = 0;
-
-        for(int i=right ; right< s.size();right++){
+        for (int right = 0; right < s.length(); right++) {
             char current = s[right];
 
-            if(lastseen[current]>=left){
-                left = lastseen[current]+1;
+            // 1. Check if character exists in map
+            // 2. Ensure its last seen index is INSIDE the current active window (>= left)
+            if (lastSeen.find(current) != lastSeen.end() && lastSeen[current] >= left) {
+                left = lastSeen[current] + 1;
             }
 
-            lastseen[current]=right;
+            // Update/insert the last seen index for current character
+            lastSeen[current] = right;
 
-            maxln = max(maxln,right-left+1);
+            // Recalculate max window length
+            maxLength = std::max(maxLength, right - left + 1);
         }
-        return maxln;
-        
+
+        return maxLength;
     }
 };
